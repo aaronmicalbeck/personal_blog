@@ -1,12 +1,11 @@
 import React from 'react';
 
-export default function Contact (){
+export default function Archive (){
 
     return <div>
         
         
-        <h1>Contact</h1>
-        
+        <h1>Archive</h1>
         
         
         </div>
